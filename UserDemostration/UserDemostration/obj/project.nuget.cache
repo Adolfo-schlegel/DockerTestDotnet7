@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5rgHiFIG3aeVoGnewJyKJZBD8S/B6m1oNCONaBDx7Rx5quEqAatvX3G953qLtfS+79l2x/ZFgcjjiisy9uT9fA==",
+  "dgSpecHash": "UqCAwUXbPbXyT+QJdrBZUtIB32Si1DszvFA9KCdqyys77KVuKGakJ/uG/hv7zQOMfW8wJHUlecsRPX9Hp+J2iw==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\Api-DockerImplementation\\UserDemostration\\UserDemostration\\UserDemostration.csproj",
+  "projectFilePath": "D:\\Proyectos\\Api-DockerImplementation\\DockerTestDotnet7\\UserDemostration\\UserDemostration\\UserDemostration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adolf\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Adolf\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
